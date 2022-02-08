@@ -1,1 +1,15 @@
-asd 
+body{
+  background-color: #1F3F6E;
+
+}
+
+h1{
+  font-family: 'Times New Roman';
+  color : #E3E3E5
+}
+
+p{
+  font-family: 'Times New Roman';
+  font-size: 90px;
+  color : #E3E3E5
+}
